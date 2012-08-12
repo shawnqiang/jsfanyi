@@ -2,7 +2,7 @@ auto: true
 server: true
 pygments: true
 permalink: none
-baseurl: "" 
+baseurl: "jsfanyi" 
 exclude:
 - .gitignore
 - README.md
